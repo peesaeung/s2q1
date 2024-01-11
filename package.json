@@ -29,7 +29,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "~17.0.9",
     "@angular/cli": "~17.0.9",
-    "@angular/compiler-cli": "~17.0.7",
+    "@angular/compiler-cli": "~17.0.9",
     "@types/jasmine": "~5.1.4",
     "@types/node": "^20.10.7",
     "codelyzer": "^6.0.0",
