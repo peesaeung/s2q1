@@ -19,7 +19,7 @@
     "@angular/localize": "~17.0.9",
     "@angular/platform-browser": "~19.0.1",
     "@angular/platform-browser-dynamic": "~19.0.0",
-    "@angular/router": "~19.0.0",
+    "@angular/router": "~19.0.1",
     "@ng-bootstrap/ng-bootstrap": "^17.0.1",
     "bootstrap": "^5.3.3",
     "rxjs": "~7.8.1",
